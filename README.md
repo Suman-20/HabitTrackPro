@@ -22,5 +22,6 @@ HabitTrackPro is a web app to track your daily habits, set goals, and monitor ac
 3. `npm start` to run the project
 
 ## Screenshots
+ <img src="clock.png" alt="Redmi Phone" width="400" height="auto">
 
 
