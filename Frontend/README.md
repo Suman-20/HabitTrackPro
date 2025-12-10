@@ -1,12 +1,28 @@
-# React + Vite
+# HabitTrackPro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HabitTrackPro is a web app to track your daily habits, set goals, and monitor achievements.
 
-Currently, two official plugins are available:
+## Features
+- Add, edit, delete habits
+- Set reminders
+- Track streaks and completion
+- Achievements & badges
+- User authentication (Login/Signup)
+- Profile and stats
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- Frontend: React, TailwindCSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: JWT
 
-## Expanding the ESLint configuration
+## Installation
+1. Clone the repo
+2. `npm install` in backend and frontend folders
+3. `npm start` to run the project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Screenshots
+ <img src="habit1.png" alt="Redmi Phone" width="400" height="auto">
+ <img src="habit2.png" alt="Redmi Phone" width="400" height="auto">
+ <img src="habit3.png" alt="Redmi Phone" width="400" height="auto">
+ 
