@@ -26,3 +26,4 @@ HabitTrackPro is a web app to track your daily habits, set goals, and monitor ac
  <img src="habit2.png" alt="Redmi Phone" width="400" height="auto">
  <img src="habit3.png" alt="Redmi Phone" width="400" height="auto">
  
+ 
